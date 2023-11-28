@@ -1,4 +1,4 @@
-# Coda--Nikel
+# Nikel
 
 <h1> Projeto CODAI 2.0</h1>
 
